@@ -1,0 +1,2 @@
+INSERT INTO account (id, balance, created_time) VALUES (12345678, 1000000, TIMESTAMP '1970-01-01 00:00:00');
+INSERT INTO account (id, balance, created_time) VALUES (88888888, 1000000, TIMESTAMP '1970-01-01 00:00:00');

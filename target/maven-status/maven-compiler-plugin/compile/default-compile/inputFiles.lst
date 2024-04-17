@@ -1,0 +1,7 @@
+/Users/samuelchow/Documents/workspace/account-manager/src/main/java/com/acmebank/accountmanager/persistence/model/Transaction.java
+/Users/samuelchow/Documents/workspace/account-manager/src/main/java/com/acmebank/accountmanager/persistence/model/Account.java
+/Users/samuelchow/Documents/workspace/account-manager/src/main/java/com/acmebank/accountmanager/controller/AccountController.java
+/Users/samuelchow/Documents/workspace/account-manager/src/main/java/com/acmebank/accountmanager/persistence/repository/AccountRepository.java
+/Users/samuelchow/Documents/workspace/account-manager/src/main/java/com/acmebank/accountmanager/dto/AccountResponseDto.java
+/Users/samuelchow/Documents/workspace/account-manager/src/main/java/com/acmebank/accountmanager/Application.java
+/Users/samuelchow/Documents/workspace/account-manager/src/main/java/com/acmebank/accountmanager/persistence/repository/TransactionRepository.java
